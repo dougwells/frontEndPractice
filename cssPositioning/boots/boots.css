@@ -1,0 +1,35 @@
+body {
+  background-color: #1f1f1f;
+  color: #bfbfbf;
+    height: 1000px;
+}
+h1{
+  font-weight: normal;
+	margin: 0 auto;
+	width: 200px
+}
+
+em{
+  color: #e07a05
+}
+
+.box{
+  height: 40px;
+  width: 40px;
+	margin: 0 2px;
+	display: inline-block;
+}
+
+.blueBox{
+    background: blue;
+
+}
+
+.greenBox{
+    background: #5b8054;
+}
+		
+.redBox{
+    background: red;
+
+}
