@@ -1,0 +1,16 @@
+
+html {
+  font-size: 16px;
+}
+[class^="col"] {
+    background: rgba(152, 214, 245, 0.73);
+    border: 1px solid rgba(86,61,124,.2);
+    min-height: 50px;
+		font-size: 16px;
+		vertical-align: middle;
+		color: red;
+}
+.font-sizes {
+    text-align: center;
+    padding: 30px 0;
+}
