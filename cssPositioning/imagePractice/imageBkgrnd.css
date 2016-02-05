@@ -1,0 +1,57 @@
+
+.container{
+	background:	url("https://dl.dropboxusercontent.com/s/ihldzg2u6l0drph/surferGirl.jpg")
+		#eee
+		no-repeat 	  
+		top left;
+	background-size: 100%;
+	border: 1px solid white;
+	width: 100%;
+	height: 55vw;
+	position: relative;
+	top 0px;
+	left: 0px
+}
+
+.box{
+  height: 100px;
+  width: 100px;
+	margin-bottom: 10px;
+}
+
+.greenBox{
+	background: #5b8054;
+	position: static;
+	top: 35%;
+	left: 40%;
+	z-index: ;
+}
+
+.blueBox{
+	background: #627da0;
+	position: absolute;
+	z-index: ;
+	top: 25%;
+	left: 30%;
+	height: 75px;
+	width: 300px;
+}
+
+.yellowBox{
+	background: bisque;
+	position: static;
+	z-index: ;
+}
+
+body {
+  background-color: #1f1f1f;
+  color: #bfbfbf;
+  height: 2000px;
+}
+h1, h2{
+  font-weight: normal;
+}
+
+em{
+  color: #e07a05
+}
